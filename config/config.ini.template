@@ -1,0 +1,8 @@
+[twitter]
+api_key = XXXX
+api_secret = XXXX
+access_token = XXXX
+access_secret = XXXX
+
+[quandl]
+api_key = XXXX
